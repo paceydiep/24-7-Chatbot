@@ -1,6 +1,6 @@
 # Chatbot
 
-A brief description of the project.
+Human Resource Chatbot for 24/7 Care at Home Hospice.
 
 ## Installation
 
